@@ -416,10 +416,12 @@ nuevas herramientas como el _Service BluePrint_.
 * [UNIX Shell](topics/shell)
 * [Paradigmas de programación](topics/paradigms)
 * [JavaScript Funcional](topics/functional)
-* [React](topics/react) [DEPRECATED]
-* [Redux](topics/redux) [DEPRECATED]
-* [Intro a UX Design](https://github.com/Laboratoria/curricula-ux/tree/master/00-topics/00-intro-ux)
-* [Visual Design](https://github.com/Laboratoria/curricula-ux/tree/master/00-topics/02-diseno-visual)
+* [Babel](topics/babel) [DEPRECATED]
+* [Intro a UX Design](topics/intro-ux)
+* [Content Management](topics/content-management)
+* [Interaction Design](topics/interaction-design)
+* [UX Research](topcis/ux-research)
+* [Prototyping](topcis/prototyping)
 
 ***
 
@@ -444,7 +446,7 @@ contribuciones son bienvenidas.
 
 ## Licencia & Copyright
 
-Todos los materiales de este repo son (c) 2017-2019 [Laboratoria](http;//laboratoria.la/).
+Todos los materiales de este repo son (c) 2017-2020 [Laboratoria](https://laboratoria.la/).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
